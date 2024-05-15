@@ -1,0 +1,5 @@
+- Nomi variabili in INGLESE
+- Su cicli contatori (for) si utilizza i come nome variabile, non altro.
+- Non assegnare variabili ad ogni cosa che vedi, occupa memoria!
+- Metti nei blocchi condizionali solo ciò che cambia, nient'altro.
+- Evita ripetizioni di codice, ottimizza il più possibile per avere meno righe
